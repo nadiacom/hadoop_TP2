@@ -1,0 +1,10 @@
+MaleFemaleProportion$COUNTER_TOTAL.class
+MaleFemaleProportion.class
+NameByOrigin.class
+NumberOfFistNameByNumberOfOrigin$IntSumReducer.class
+MaleFemaleProportion$TokenizerMapper.class
+NumberOfFistNameByNumberOfOrigin$TokenizerMapper.class
+NumberOfFistNameByNumberOfOrigin.class
+MaleFemaleProportion$IntSumReducer.class
+NameByOrigin$IntSumReducer.class
+NameByOrigin$TokenizerMapper.class
